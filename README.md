@@ -7,3 +7,4 @@
 
 ![AbelChe's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelChe&hide=contribs,prs&theme=gruvbox)
 
+关掉电脑，扔掉手机然后去海边烤鸡腿吃吧！
