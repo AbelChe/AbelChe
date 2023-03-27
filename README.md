@@ -5,7 +5,7 @@
 
 ~~液晶屏 风扇 键盘 手机~~
 
-![](Patrick_Star_Roast_chicken_legs_by_the_sea_be1bacc7-b6a8-45d8-92b8-b039ca24304f.png)
+![](c.jpg)
 
 ##### My CVEs
 1. CVE-2022-35510
